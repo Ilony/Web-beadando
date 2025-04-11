@@ -1,2 +1,1 @@
-# Web-beadando
-Web-beadando
+Buszjegy lefoglaló oldal
